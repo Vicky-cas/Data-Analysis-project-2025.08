@@ -14,7 +14,7 @@ This is a project for practicing data analysis and visualization
 ##### 4. 環境需求
 python  
 必要套件  
-pandas numpy matplotlib seaborn 
+pandas numpy matplotlib seaborn plotly streamlit
 
 ##### 5. 分析流程
 資料匯入與清理  
@@ -27,3 +27,6 @@ pandas numpy matplotlib seaborn
 冷藏膳食成長潛力：顯著上升，反映消費者對便利、高品質食品需求增加  
 季節性波動的行銷機會：特定食品類別隨節慶、氣候波動，可提前備貨或推出促銷策略  
 Outlier 提示市場敏感度：如 2024 年初水產品下滑，提醒供應鏈與庫存管理的重要性  
+  
+##### 7.互動式圖表
+[streamlit](https://data-analysis-project-202508-vicky-cas.streamlit.app/)
